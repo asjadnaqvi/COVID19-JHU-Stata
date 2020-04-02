@@ -1,0 +1,4 @@
+This document provides the code for importing the JHU COVID-19 dataset (https://github.com/CSSEGISandData/COVID-19) in Stata and setting it up as a panel dataset in Stata.
+
+
+Please send errors, comments, and/or feedback!
